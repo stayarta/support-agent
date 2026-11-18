@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>3</integer>
+					<key>AllowedProtocolMaskInRoaming</key>
+					<integer>3</integer>
+					<key>DefaultProtocolMask</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>internet.digimobil.es</string>
+				</dict>
+			</array>
+			<key>AttachAPN</key>
+			<dict>
+				<key>AllowedProtocolMask</key>
+				<integer>3</integer>
+				<key>Name</key>
+				<string>internet.digimobil.es</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures cellular data settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Cellular</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.18767568-BF57-4F19-9567-64F43F79A62B</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>18767568-BF57-4F19-9567-64F43F79A62B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Digi Spain</string>
+	<key>PayloadIdentifier</key>
+	<string>Simartiss-MacBook-Pro.0D1F7174-E590-46AD-9F01-88867860237F</string>
+	<key>PayloadOrganization</key>
+	<string>Digi Spain</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>45CCF9D8-9D0C-4754-AC1B-01481F696ECF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
